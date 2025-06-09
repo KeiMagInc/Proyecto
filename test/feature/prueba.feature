@@ -1,6 +1,8 @@
 # Created by LudoAdmin at 6/9/2025
-Feature: # Enter feature name here
-  # Enter feature description here
+# language: es
 
-  Scenario: # Enter scenario name here
+Característica: : # Enter feature name here
+
+
+  Escenario: : # Enter scenario name here
     # Enter steps here
