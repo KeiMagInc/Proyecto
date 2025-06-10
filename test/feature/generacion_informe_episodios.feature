@@ -1,7 +1,7 @@
 # Created by Joffre at 9/6/2025
 # language: es
 Característica: Generación de informe PDF con resumen de episodios
-  Como paciente en tratamiento
+  Como paciente con migrañas frecuentes
   quiero generar un informe en PDF
   para compartirlo con mi médico
 

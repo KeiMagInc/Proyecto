@@ -2,7 +2,7 @@
 # language: es
 
 Característica: Seguimiento del estado emocional y clima relacionado con las migrañas
-Como paciente que sufre migrañas,
+Como paciente que sufre migrañas frecuentes,
 Quiero identificar patrones entre mi estado emocional, las condiciones climáticas y mis episodios de migraña,
 Para que pueda anticiparme a posibles desencadenantes y tomar decisiones informadas para reducir la frecuencia de mis migrañas.
 
@@ -15,7 +15,7 @@ Para que pueda anticiparme a posibles desencadenantes y tomar decisiones informa
       | Incremento de episodios    | +30% en días de alta humedad y estrés alto |
     Y mostrará la recomendación:
       """Se observa una correlación entre días de alta humedad, estrés elevado y aumento de episodios de migraña. Considere técnicas de manejo de estrés y precauciones en días húmedos."""
-    Y el paciente puede descargar un informe para compartir con su profesional de salud
+
 
   Escenario: El paciente personaliza los datos a registrar y recibe una alerta basada en umbrales configurados
     Dado que el paciente ha registrado al menos 10 episodios de migraña
